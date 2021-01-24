@@ -1,0 +1,64 @@
+body 
+{
+    background-color: #b2b2b2;
+    color: black;
+}
+
+#navimg
+{
+    height: 2em;
+    width: auto;
+}
+
+#navitem
+{
+    color: white;
+    font-size: 1.5em;
+}
+
+#navitem:hover
+{
+    color: #91523e;
+    font-size: 1.5em;
+}
+
+main
+{
+    padding-top: 1;
+}
+
+#navbartop
+{
+    background-color: #242423;
+}
+
+#pagefooter
+{
+    background-color: #242423;
+    color: white;
+}
+
+#footerlinks
+{
+    color: white;
+}
+
+#footerlinks:hover{
+    color: #91523e;
+}
+
+#pagefootercontainer{
+    background-color: #242423;
+}
+
+#Aboutimage{
+    height: 30em;
+    width: auto;
+    border-radius: 20%;
+}
+
+#aboutuspar{
+    text-align: center;
+    font-family: 'Architects Daughter', sans-serif;
+    font-size: 1.3em;
+}
