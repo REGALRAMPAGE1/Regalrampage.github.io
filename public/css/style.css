@@ -1,0 +1,26 @@
+:root {
+    --navBeige: #F5F4EF;
+    --dark: #252223;
+    --nude: #DCD3B8;
+    --beige: #E6DFDB;
+    --lightOliveBG: #FCFCF8;
+  }
+
+.navbar-light {
+    background-color: var(--navBeige);
+  }
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--lightOliveBG);
+}
+
+.geographieImage{
+  width: 500px;
+}
+
+.scriptsImage{
+  width: 500px;
+}
